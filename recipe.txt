@@ -16,3 +16,5 @@ coctail
 mocktail
 
 
+panner
+dal makhni
